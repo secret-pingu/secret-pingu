@@ -4,10 +4,10 @@ mijn naam is Boaz van Hemsbergen en ik ben een student bij talland.
 ik wil graag meer leren over coderen.
 
 wat ik nu kan doen is:
-html
-css
-javascript
-bulma
+html,
+css,
+javascript,
+bulma,
 tailwind
 <!--
 **secret-pingu/secret-pingu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
